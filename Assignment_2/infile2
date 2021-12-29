@@ -1,0 +1,13 @@
+#include<bits/stdc++.h>
+/*For name mangling*/
+using namespace std;
+//Main function starts
+int main(){ //Main function
+    cout<<"Hello\n"; /* prints Hello to console
+
+    //Hello there
+        this uses a system call
+    */
+    return 0;
+}
+/*Program ends*/
